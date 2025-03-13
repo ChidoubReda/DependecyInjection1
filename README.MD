@@ -11,3 +11,5 @@
 <h3>5. Faire l'injection des dépendances :
   a. Par instanciation statique</h3>
 <img src="captures/img_4.png">
+<h3>b. Par instanciation dynamique</h3>
+<img src="captures/img_5.png">
