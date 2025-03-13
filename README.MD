@@ -13,3 +13,8 @@
 <img src="captures/img_4.png">
 <h3>b. Par instanciation dynamique</h3>
 <img src="captures/img_5.png">
+<h3>  c. En utilisant le Framework Spring
+       - Version XML</h3>
+<img src="captures/img_6.png">
+<h3> - Version Annotation</h3>
+<img src="captures/img_7.png">
